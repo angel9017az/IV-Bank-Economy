@@ -1,0 +1,14 @@
+{
+  "name": "bot-economia",
+  "version": "1.0.0",
+  "description": "Bot dedicado al sistema de banco, economía, tienda, mercado y casino",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
